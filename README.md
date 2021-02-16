@@ -19,4 +19,4 @@ There are broadly 3 types of recommendation systems:
 
 3. `Collaborative Filtering:` This is a more advanced system in which the algorithm tries to find similar users/articles and then recommends items based on this similarity. Eg: If one person likes movies A, B, and C and another person likes movies A, B, and D, it is likely that the first person will buy item D and the other person will buy item C, since they share many similarities with each other
 
-In this [https://github.com/Uttkarsh14/Movie-Recommendation-Engine/blob/main/Movie%20Recommendation.ipynb](Notebook), we'll be focusing on the advanced Collaborative Filtering recommender. Lets get started!
+In this [Notebook](https://github.com/Uttkarsh14/Movie-Recommendation-Engine/blob/main/Movie%20Recommendation.ipynb), we'll be focusing on the advanced Collaborative Filtering recommender. Lets get started!
